@@ -68,14 +68,3 @@ const handleStock = (stock) => {
 * Status: Working
 * To-do: Expand data shown and convert to tqble
 
-## :clap: Inspiration
-
-* [Morgan Page: Real-Time Crypto Prices using the Binance API with JavaScript & Websockets](https://www.youtube.com/watch?v=XXuUNZIQUVA)
-
-## :file_folder: License
-
-* N/A
-
-## :envelope: Contact
-
-* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
