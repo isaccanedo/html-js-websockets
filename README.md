@@ -1,7 +1,7 @@
 # :zap: HTML-JS-Websockets
 
-* HTML-Javascript app using Websockets to connect to the [Binance](www.binance.com) web server and display dynamic financial data.
-* * **Note:** to open web links in a new window use: _ctrl+click on link_
+HTML-Javascript app using Websockets to connect to the [Binance](www.binance.com) web server and display dynamic financial data.
+* **Note:** to open web links in a new window use: _ctrl+click on link_
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/html-js-websockets?style=plastic)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/AndrewJBateman/html-js-websockets?style=plastic)
